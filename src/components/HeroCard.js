@@ -1,5 +1,5 @@
 function HeroCard() {
-    return <h2>Herocard</h2>;
+    return <img src="instacart.hero.webp" />;
 }
 
 export default HeroCard;

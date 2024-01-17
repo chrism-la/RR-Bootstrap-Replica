@@ -17,7 +17,7 @@ function TopBar() {
                         <Nav className="mr-auto"></Nav>
                         <Nav>
                             <Nav.Link href="#LogIn">Log In</Nav.Link>
-                            <Button variant="success">Sign Up</Button>
+                            <Button className="signup">Sign Up</Button>
                             {''}
                         </Nav>
                     </NavbarCollapse>

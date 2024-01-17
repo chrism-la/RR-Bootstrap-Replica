@@ -1,0 +1,6 @@
+.parent-div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.second-nav-child {}
